@@ -4,9 +4,8 @@
 
 - 📫 How to reach me Linkdin (https://www.linkedin.com/feed/)
 -
-- ⚡ Fun fact: graduated in Biomedicine, clinical pathology and currently working with aesthetics......
+- ⚡ Fun fact: graduated in Biomedicine, clinical pathology and currently working with aesthetics..
 
-<!---
 ElenirOliveira/ElenirOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
