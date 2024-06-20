@@ -1,6 +1,7 @@
-- 👋 Olá, eu sou a @ElenirOliveira
+- 👋 Olá, eu sou a Elenir Oliveira
 - Estou cursando Analises e desenvolvimento de sistema pela Universidade Drummond, tenho gradução em Biomedicina com habilitação em Patologia clínica e pós em Estetica pela Uninove.
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenir-araújo-oliveira-208b6b167/)
--ElenirOliveira/ElenirOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Cursando bootcamp Python AI Backend Developer - Dio
+- Cursando Santander Coders 2024 - Ada Tech / Engenheiro de Dados
+- Cursando Programa de Mentoria GitHub 4 Women - Mais Mulheres tech/Microsoft
+- Concluido Programa de Mentoria Girls' Power - PL 900 Mais Mulheres tech/Microsoft
+- 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenir-araújo-oliveira-208b6b167/)
