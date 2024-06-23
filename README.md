@@ -1,7 +1,8 @@
 - 👋 Olá, eu sou a Elenir Oliveira
 - Estou cursando Analises e desenvolvimento de sistema pela Universidade Drummond, tenho gradução em Biomedicina com habilitação em Patologia clínica e pós em Estetica pela Uninove.
-- Cursando bootcamp Python AI Backend Developer - Dio
-- Cursando Santander Coders 2024 - Ada Tech / Engenheiro de Dados
-- Cursando Programa de Mentoria GitHub 4 Women - Mais Mulheres tech/Microsoft
-- Concluido Programa de Mentoria Girls' Power - PL 900 Mais Mulheres tech/Microsoft
+- Tenho interesse em linguagem Python, Sql, Power bi e engenharia de dados.
+- Bootcamp Python AI Backend Developer - Dio
+- Santander Coders 2024 - Ada Tech / Engenheiro de Dados
+- Programa de Mentoria GitHub 4 Women - Mais Mulheres tech/Microsoft
+- Programa de Mentoria Girls' Power - PL 900 Mais Mulheres tech/Microsoft
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenir-araújo-oliveira-208b6b167/)
