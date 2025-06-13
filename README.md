@@ -5,7 +5,7 @@
 ---
 
 #### 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Python (❤️), Java, SQL, HTML/CSS, JavaScript, TypeScript  
+- **Linguagens:** Python (❤️), SQL, HTML/CSS  
 - **Plataformas & Ferramentas:** MySQL · Databricks · PySpark · Power BI · Power Platform · Azure · Git & GitHub  
 - **Atualmente aprendendo:** Engenharia de Dados · NLP · Machine Learning · Orquestração de Pipelines
 
@@ -35,5 +35,5 @@ Estou construindo meu portfólio com foco em engenharia de dados e backend. Cada
 
 **Vamos nos conectar?**  
 📧 eleniraraujo3@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+💼 [LinkedIn](https://www.http://linkedin.com/in/araujoeleniroliveira
 🌐 [Portfólio (se tiver)]
