@@ -24,10 +24,19 @@
 
 ---
 
-#### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenir-oliveira&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenir-oliveira&show_icons=true&theme=radical)
+### 📈 Estatísticas do GitHub
+
+![Elenir Oliveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElenirOliveira&show_icons=true&theme=default)  
+
+
+  ### 🧠 Linguagens mais usadas
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenirOliveira&layout=compact)
+
+### 📊 Cartão resumo do perfil
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenirOliveira&theme=default)
 
 > **Nota atual:** crescendo a cada commit 🚀
 
@@ -38,7 +47,7 @@ Estou construindo meu portfólio com foco em engenharia de dados e backend. Cada
 
 **Vamos nos conectar?**  
 📧 eleniraraujo3@gmail.com  
-    💼 [LinkedIn](https://www.http://linkedin.com/in/araujoeleniroliveira)
+    💼 [LinkedIn](https://www.linkedin.com/in/araujoeleniroliveira)
 
 
 
