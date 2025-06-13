@@ -36,4 +36,12 @@ Estou construindo meu portfólio com foco em engenharia de dados e backend. Cada
 **Vamos nos conectar?**  
 📧 eleniraraujo3@gmail.com  
 💼 [LinkedIn](https://www.http://linkedin.com/in/araujoeleniroliveira
+
+
 🌐 [Portfólio (se tiver)]
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=elenir-oliveira&layout=compact&theme=radical
+
+
+https://github-readme-stats.vercel.app/api?username=elenir-oliveira&show_icons=true&theme=radical
