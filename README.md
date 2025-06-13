@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Elenir Oliveira
 
-💻 Residente em São Paulo, sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Drummond e atualmente estou me especializando em **Ciência de Dados** pela ONE | Oracle + Alura. Minha paixão está em transformar dados em decisões, códigos em soluções e aprendizado em impacto.
+💻 Residente em São Paulo, formada em **Biomedicina**, estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Drummond e atualmente estou me especializando em **Ciência de Dados** pela ONE | Oracle + Alura. Minha paixão está em transformar dados em decisões, códigos em soluções e aprendizado em impacto.
 
 ---
 
