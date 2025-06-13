@@ -17,7 +17,10 @@
 - 🧑‍💻 *Mentoria GitHub 4 Women* – Microsoft  
 - 💪 *Girls' Power – Mais Mulheres Tech* – Microsoft / PL 900  
 - 🧾 *Fundamentos em Python* – Senac  
+- 🧠 *Mentoria Data Engineer – Luiz Santana*  
+- 🌟 *Mentoria Trilha de Sucesso – Data’s Light Academy*  
 - 🌎 Espanhol intermediário
+
 
 ---
 
