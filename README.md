@@ -38,6 +38,5 @@ Estou construindo meu portfólio com foco em engenharia de dados e backend. Cada
     💼 [LinkedIn](https://www.http://linkedin.com/in/araujoeleniroliveira)
 
 
-🌐 [Portfólio (se tiver)]
 
 
