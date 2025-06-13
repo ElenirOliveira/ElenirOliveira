@@ -1,32 +1,39 @@
-# 👋 Olá, eu sou a Elenir Oliveira 
+### Olá! Eu sou a Elenir Oliveira
 
-Residente em São Paulo, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Drummond, com foco em aprimorar meus conhecimentos em programação e análise de dados. Meu objetivo é atuar como Engenheiro de dados e backend, onde posso aplicar e expandir minhas habilidades técnicas.
+💻 Residente em São Paulo, sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Drummond e atualmente estou me especializando em **Ciência de Dados** pela ONE | Oracle + Alura. Minha paixão está em transformar dados em decisões, códigos em soluções e aprendizado em impacto.
 
-Durante minha trajetória acadêmica e profissional, desenvolvi competências em várias áreas, como Python, Excel, e a Power Platform da Microsoft. Participei de cursos como "Fundamentos em Python" no Senac, Bootcamp Python AI Backend Developer - Dio, Santander Coders 2024 - Ada Tech / Engenheiro de Dados, Programa de Mentoria GitHub 4 Women - Mais Mulheres tech/Microsoft, Programa de Mentoria Girls' Power - PL 900 Mais Mulheres tech/Microsoft. Tenho também conhecimentos intermediários em espanhol.
-Busco sempre aprender e melhorar, com um forte interesse em tecnologias emergentes e soluções inovadoras, estou entusiasmada para contribuir em projetos e aprender cada vez mais.
+---
 
+#### 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Python (❤️), Java, SQL, HTML/CSS, JavaScript, TypeScript  
+- **Plataformas & Ferramentas:** MySQL · Databricks · PySpark · Power BI · Power Platform · Azure · Git & GitHub  
+- **Atualmente aprendendo:** Engenharia de Dados · NLP · Machine Learning · Orquestração de Pipelines
 
+---
 
-  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenir-araújo-oliveira-208b6b167/) 
-<code>[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eleniraraujo3@gmail.com)</code>
-      </td>
-      
- ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-  
-    
- ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### 🧠 Formação e Mentorias
+- 🧬 *Bootcamp Python AI Backend Developer* – DIO & Santander  
+- 🏗 *Santander Coders - Engenheiro de Dados* – Ada Tech  
+- 🧑‍💻 *Mentoria GitHub 4 Women* – Microsoft  
+- 💪 *Girls' Power – Mais Mulheres Tech* – Microsoft / PL 900  
+- 🧾 *Fundamentos em Python* – Senac  
+- 🌎 Espanhol intermediário
 
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+#### 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenir-oliveira&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenir-oliveira&show_icons=true&theme=radical)
 
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+> **Nota atual:** crescendo a cada commit 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+#### 🌱 Em construção, sempre
+Estou construindo meu portfólio com foco em engenharia de dados e backend. Cada projeto é um degrau a mais nessa jornada!
+
+**Vamos nos conectar?**  
+📧 eleniraraujo3@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+🌐 [Portfólio (se tiver)]
